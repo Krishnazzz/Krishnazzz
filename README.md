@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursuing C.E.H<br>🌐 CCNA <br>🧑‍💻 like to Time-pass <br>💀  Preparing for O.S.C.P  & CISSP <br>⚡ Looking to Explore and gain more knowledge on Cyber security...
+🔭 I’m currently C.E.H | Ec-council <br>👽 skills are :- Wpt, Npt , front-end developer <br>🌐 CCNA <br>🧑‍💻 like to Time-pass <br>💀  Preparing for O.S.C.P <br>⚡ Looking to Explore and gain more knowledge on Cyber security...
 
 
 ## 🌐 Socials:
